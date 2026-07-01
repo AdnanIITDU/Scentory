@@ -1,0 +1,6 @@
+{
+  "name": "Scentory",
+  "description": "Modern Perfume Inventory & Sales Management System with interactive dashboard, sales, purchases, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
